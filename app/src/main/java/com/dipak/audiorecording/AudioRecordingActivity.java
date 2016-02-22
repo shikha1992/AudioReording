@@ -62,6 +62,8 @@ public class AudioRecordingActivity extends Activity {
 		String filepath = Environment.getExternalStorageDirectory().getPath();
 		File file = new File(filepath, AUDIO_RECORDER_FOLDER);
 
+
+
 		if (!file.exists()) {
 			file.mkdirs();
 		}
