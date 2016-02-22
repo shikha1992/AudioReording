@@ -1,0 +1,100 @@
+[
+    {
+        "outputFile": "C:\\Users\\Umesh\\Downloads\\Android Audio Recording\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 97,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Umesh\\Downloads\\Android Audio Recording\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endLine": 5,
+                        "endColumn": 97,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 51,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "C:\\Users\\Umesh\\Downloads\\Android Audio Recording\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 47,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "C:\\Users\\Umesh\\Downloads\\Android Audio Recording\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 67,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "C:\\Users\\Umesh\\Downloads\\Android Audio Recording\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 70,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "C:\\Users\\Umesh\\Downloads\\Android Audio Recording\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 50,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "C:\\Users\\Umesh\\Downloads\\Android Audio Recording\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 47,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "C:\\Users\\Umesh\\Downloads\\Android Audio Recording\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]
